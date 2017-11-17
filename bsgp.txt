@@ -1,0 +1,2 @@
+Multiple files of BSGP project using Python.
+tkinter, SQL, Database, threads etc. is used in project.
